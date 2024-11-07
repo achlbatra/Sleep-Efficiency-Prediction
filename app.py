@@ -3,8 +3,6 @@ import numpy as np
 import pandas as pd
 import datetime
 from datetime import time
-from setuptools import distutils
-import joblib
 
 sleep_efficiency = 0
 
